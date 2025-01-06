@@ -7,7 +7,8 @@ Type 1 Diabetic patients require exogenous insulin delivery to maintain normal b
 ## Model Architecture
 ![Model Architecture](mod_arch.png)
 
-
+## Authors
+Namit Arora , Gorseet Paul Singh, et el.
 
 
 
