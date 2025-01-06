@@ -5,10 +5,8 @@ Type 1 Diabetic patients require exogenous insulin delivery to maintain normal b
 ## Preliminary Project Report can be [Found Here](https://drive.google.com/file/d/1VJw55jo6CJ9IndpK_uU9YZLi2GxPjd6G/view?usp=sharing)
 
 ## Model Architecture
-![Model Architecture](fig_duel_modal_architecture.png)
+![Model Architecture](mod_arch.png)
 
-## Results
-![Results](fig_tir_adult.png)
 
 
 
